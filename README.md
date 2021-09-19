@@ -73,7 +73,7 @@ Big 5 Personality Test:
 
 https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.3,2.3,3.2,3.5,4.2#_V
 
-![Big5 Test Result](https://github.com/krookedpodrig/CPT110_Assignment1/blob/main/BIG5-graphic.php.png)
+![Big5 Test Result](/BIG5-graphic.php.png)
 
 I. Factor I was labelled as Extroversion by the developers of the IPIP-BFFM. Factor I is sometimes given other names, such as Surgency or Positive Emotionality.
        Individuals who score high on Factor I one are outgoing and social. Individuals who score low tend to be shut ins.
