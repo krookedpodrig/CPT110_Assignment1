@@ -37,35 +37,50 @@ The plan to put myself in position to obtain a job like this involves completing
 ### Personal Profile
 
 Briggs-Meyer Result: 
-INFP-T (Mediator)
-Mind: 82% Introverted – 18% Extroverted
-Energy: 74% iNtuitive – 26% Observant
-Nature: 66% Feeling – 34% Thinking
-Tactics: 53% Prospecting – 47% Judging
-Identity: 75% Turbulent – 25% Assertive
 
-The Mediator personality: 
-	“A Mediator (INFP) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.”
-- 16 Personalities
+INFP-T (Mediator)
+
+Mind: 82% **I**ntroverted – 18% Extroverted
+
+Energy: 74% i**N**tuitive – 26% Observant
+
+Nature: 66% **F**eeling – 34% Thinking
+
+Tactics: 53% **P**rospecting – 47% Judging
+
+Identity: 75% **T**urbulent – 25% Assertive
+
+RESULT: The Mediator personality - *“A Mediator (INFP) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.”* - 16 Personalities
 https://www.16personalities.com/infp-personality
 
 Learning Style Test:
 
 http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+
 Scores:
-    • Auditory: 25%
-    • Visual: 35%
-    • Tactile: 40%
+
+• Auditory: 25%
+
+• Visual: 35%
+
+• Tactile: 40%
+
 Tactile Learner: This learning type is people who learn by doing rather than listening to a description of the task or seeing a demonstration. Tactile learners are people who prefer to dive in and figure things out as they go, the sort of people who will pull something apart and put it back together just to see how it works.
+
 Big 5 Personality Test:
+
 https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.3,2.3,3.2,3.5,4.2#_V
 
-    I. Factor I was labelled as Extroversion by the developers of the IPIP-BFFM. Factor I is sometimes given other names, such as Surgency or Positive Emotionality.
+I. Factor I was labelled as Extroversion by the developers of the IPIP-BFFM. Factor I is sometimes given other names, such as Surgency or Positive Emotionality.
        Individuals who score high on Factor I one are outgoing and social. Individuals who score low tend to be shut ins.
-    II. Factor II is labeled as Emotional Stability. Factor II is often referred to by other names, such as Neruoticism or Negative Emotionality (in these two cases interpretations are inverted, as Neruoticism and Negative Emotionality can be though of as the opposite of Emotional Stability). 
-    III. Factor III is labeled as Agreeableness. A person high in agreeableness is friendly and optimistic. Low scorers are critical and aggressive. 
-    IV. Factor IV is labeled as Conscientiousness. Individuals who score high on this factor are careful and diligent. Low scorers are impulsive and disorganized. 
-    V. Factor V is labeled as Intellect/Imagination. This factor is also often called Openness to Experience.
+
+II. Factor II is labeled as Emotional Stability. Factor II is often referred to by other names, such as Neruoticism or Negative Emotionality (in these two cases interpretations are inverted, as Neruoticism and Negative Emotionality can be though of as the opposite of Emotional Stability). 
+
+III. Factor III is labeled as Agreeableness. A person high in agreeableness is friendly and optimistic. Low scorers are critical and aggressive. 
+
+IV. Factor IV is labeled as Conscientiousness. Individuals who score high on this factor are careful and diligent. Low scorers are impulsive and disorganized. 
+
+V. Factor V is labeled as Intellect/Imagination. This factor is also often called Openness to Experience.
        People who score low tend to be traditional and conventional.
 
 ### IT Project Idea
