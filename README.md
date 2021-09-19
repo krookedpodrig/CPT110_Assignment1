@@ -4,7 +4,7 @@
 
 ### Personal Info
  
-I was born on the Gold Coast to fourth generation British migrants and speak English as a first language with a decent handful words and phrases in other languages under my belt. Having finished High School in 2000, I have started but not finished degree programs in Science, Maths, Physics, Law and Journalism. My partner and I recently adopted a Greyhound rescued from the racing industry and it has brought the failings of this industry starkly into focus for me.
+I was born on the Gold Coast to fourth generation British migrants and speak English as a first language with a decent handful words and phrases in other languages under my belt. Having graduated High School in 2000, I have since undertaken further studies in Maths, Physics, Law and Journalism. I enjoy many sporting past times including skateboarding, golf, surfing, football and tennis. My partner and I recently adopted a Greyhound rescued from the racing industry which has brought the failings of this industry starkly into focus for me.
 
 ### Interest in IT
 
