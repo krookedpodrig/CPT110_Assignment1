@@ -22,7 +22,7 @@ DevOps Engineer
 
 https://www.seek.com.au/job/53919807?type=promoted#searchRequestToken=c9878d1f-7e45-4037-b86b-91d1ff1e366c
 
-![DevOps Job Ad](ideal_job.png)
+![DevOps Job Ad](/ideal_job.png)
 
 This ad is for a position as a DevOps engineer. DevOps is the conduit between developers and operations teams. Developers are interested in developing and introducing updates and new software while operations teams are focused on the daily operations of the software and maintaining stability and reliability during transitions.
 
