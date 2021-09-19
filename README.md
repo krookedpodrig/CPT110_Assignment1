@@ -22,6 +22,8 @@ DevOps Engineer
 
 https://www.seek.com.au/job/53919807?type=promoted#searchRequestToken=c9878d1f-7e45-4037-b86b-91d1ff1e366c
 
+![DevOps Job Ad](https://github.com/krookedpodrig/CPT110_Assignment1/blob/main/ideal_job.png)
+
 This ad is for a position as a DevOps engineer. DevOps is the conduit between developers and operations teams. Developers are interested in developing and introducing updates and new software while operations teams are focused on the daily operations of the software and maintaining stability and reliability during transitions.
 
 Using complex retail POS software on a daily basis I am very familiar with issues around troubleshooting and implementing updates. I am always communicating with the Managers and staff in order to identify weaknesses or errors in the system and then try to find effective solutions. I enjoy seeing the different ways people view and use the software and the different ideas that people have about what it should do and why.
@@ -70,6 +72,8 @@ Tactile Learner: This learning type is people who learn by doing rather than lis
 Big 5 Personality Test:
 
 https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.3,2.3,3.2,3.5,4.2#_V
+
+![Big5 Test Result](https://github.com/krookedpodrig/CPT110_Assignment1/blob/main/BIG5-graphic.php.png)
 
 I. Factor I was labelled as Extroversion by the developers of the IPIP-BFFM. Factor I is sometimes given other names, such as Surgency or Positive Emotionality.
        Individuals who score high on Factor I one are outgoing and social. Individuals who score low tend to be shut ins.
